@@ -7,7 +7,7 @@ public:
            
         if(operations[i]=="--X"){
             a = a - 1;}
-        else if(operations[i]=="++A"){
+        else if(operations[i]=="++x"){
             a = a + 1;
         }
         else if(operations[i]=="X--"){
